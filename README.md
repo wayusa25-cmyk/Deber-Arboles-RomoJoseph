@@ -40,3 +40,4 @@ Las clases están organizadas en `enums`, `modelo`, `negocio` y `app`. Las opera
 ```
 ## Captura de PruebasBiblioteca
 
+<img width="423" height="372" alt="image" src="https://github.com/user-attachments/assets/f6c186c4-9f16-44a6-aa59-95b8a532b159" />
